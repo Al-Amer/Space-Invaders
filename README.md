@@ -55,6 +55,13 @@ Features
 
 <img width="568" height="633" alt="Screenshot 2025-07-14 at 23 47 58" src="https://github.com/user-attachments/assets/904d739d-d0ed-42e1-8d72-05eeb4489b8a" />
 
+
+
+https://github.com/user-attachments/assets/b5e9a209-af4a-49f7-abec-d09f2e111022
+
+
+
+
 <img width="570" height="635" alt="Screenshot 2025-07-14 at 23 48 12" src="https://github.com/user-attachments/assets/98bc51f1-c070-44ff-997f-dcab98ae8bb3" />
 
 
