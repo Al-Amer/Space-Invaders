@@ -1,6 +1,49 @@
 # Space-Invaders
 is a shoot-'em-up computer game designed and programmed by Tomohiro Nishikado and published by Taito, released in 1978. Along with Pac-Man, Space Invaders was one of the games that shaped the early development of video games.
 
+Requirements
+-----------
+- Python 3.x
+- curses library (included in Python standard library)
+
+How to Run
+----------
+Run the game using the Terminal:
+1. cd Desktop
+2. cd Terminal_Conflict
+3. python main.py
+
+Else double click the Start_Game.command file.
+
+Controls
+-----------
+Game Control:
+- Arrow Up    : Move ship up
+- Arrow Down  : Move ship down
+- Arrow Left  : Move ship left
+- Arrow Right : Move ship right
+- ESC         : Pause game/menu
+- Auto-Shoot so no Key needed
+
+Menu Control:
+- Arrow Up/Down : Navigate menu
+- Enter         : Select option
+- ESC           : Return/Exit
+
+Features
+--------
+- Colorful ASCII graphics
+- Multiple enemy types
+- Score tracking
+- Increasing difficulty
+- Pause menu
+- Keybindings menu
+- Scoreboard system
+- Achievement system
+- In-game shop
+- Sound effects (in development)
+- PowerUps (in development)
+
 
 <img width="597" height="656" alt="Screenshot 2025-07-14 at 23 46 15" src="https://github.com/user-attachments/assets/10bfd33e-6aee-4b4c-9265-5eeb61d8ee54" />
 
