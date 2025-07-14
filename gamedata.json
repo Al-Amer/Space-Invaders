@@ -1,0 +1,142 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "username": "Smaze",
+            "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "currency": 0
+        },
+        {
+            "id": 2,
+            "username": "Smaze2",
+            "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "currency": 0
+        },
+        {
+            "id": 3,
+            "username": "Smaze4",
+            "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "currency": 0
+        },
+        {
+            "id": 4,
+            "username": "Smaze6",
+            "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "currency": 0
+        },
+        {
+            "id": 5,
+            "username": "Smaze11",
+            "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "currency": 534
+        },
+        {
+            "id": 6,
+            "username": "Amer",
+            "password_hash": "e36a081fea3179476d09d42c664296b2834de7a4b8ca224fd18bb39574a1878c",
+            "currency": 0
+        },
+        {
+            "id": 7,
+            "username": "TeamA",
+            "password_hash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+            "currency": 0
+        },
+        {
+            "id": 8,
+            "username": "Wajd",
+            "password_hash": "1003c745c4fa7e247cd4b58c03aa806ba61ec74a8a6dcd9ced5360097ccd20cb",
+            "currency": 0
+        }
+    ],
+    "scores": [
+        {
+            "player_id": 5,
+            "score": 2550
+        }
+    ],
+    "saves": {
+        "5": {
+            "level": 5,
+            "score": 2050,
+            "currency": 2434
+        }
+    },
+    "cosmetics": {
+        "1": {
+            "ship_color_name": "Default Cyan",
+            "projectile_style_name": "Standard Bolt"
+        },
+        "2": {
+            "ship_color_name": "Default Cyan",
+            "projectile_style_name": "Standard Bolt"
+        },
+        "3": {
+            "ship_color_name": "Default Cyan",
+            "projectile_style_name": "Standard Bolt"
+        },
+        "4": {
+            "ship_color_name": "Default Cyan",
+            "projectile_style_name": "Standard Bolt"
+        },
+        "5": {
+            "ship_color_name": "Golden Star",
+            "projectile_style_name": "Standard Bolt"
+        },
+        "6": {
+            "ship_color_name": "Default Cyan",
+            "projectile_style_name": "Standard Bolt"
+        },
+        "7": {
+            "ship_color_name": "Default Cyan",
+            "projectile_style_name": "Standard Bolt"
+        },
+        "8": {
+            "ship_color_name": "Default Cyan",
+            "projectile_style_name": "Standard Bolt"
+        }
+    },
+    "achievements": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+            "GEN_KILLS_10",
+            "LVL1_COMPLETE",
+            "GEN_NO_HIT",
+            "LVL1_PERFECT",
+            "GEN_KILLS_50",
+            "GEN_DESTROYER",
+            "LVL2_COMPLETE",
+            "BOSS1_DEFEAT",
+            "GEN_RICH",
+            "LVL4_COMPLETE",
+            "BOSS2_DEFEAT"
+        ],
+        "6": [
+            "GEN_KILLS_10",
+            "LVL1_COMPLETE",
+            "GEN_DESTROYER",
+            "LVL2_COMPLETE"
+        ],
+        "7": [
+            "GEN_KILLS_10",
+            "GEN_NO_HIT",
+            "LVL1_COMPLETE",
+            "LVL1_PERFECT",
+            "GEN_DESTROYER",
+            "LVL2_COMPLETE",
+            "GEN_RICH",
+            "BOSS1_DEFEAT",
+            "GEN_KILLS_50",
+            "LVL4_COMPLETE"
+        ],
+        "8": [
+            "GEN_KILLS_10",
+            "LVL1_COMPLETE",
+            "GEN_DESTROYER",
+            "LVL2_COMPLETE"
+        ]
+    }
+}
